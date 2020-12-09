@@ -5,7 +5,7 @@ html {
 .logo {
     font-family: "Montserrat";
     font-weight: 800;
-    color: orange;
+    color: pink;
 }
 
 header {
@@ -36,7 +36,7 @@ header {
 }
 
 .order-button {
-    color: orange !important;
+    color: pink !important;
     background-color: black;
     padding-left: 24px;
     padding-right: 24px;
@@ -74,6 +74,6 @@ header {
 
 .call-to-action i {
     transition: transform 150ms ease-in-out;
-    color: orange;
+    color: pink;
     margin-left: 8px;
 }
